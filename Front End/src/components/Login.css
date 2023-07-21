@@ -1,0 +1,8 @@
+.inputField {
+  display: flex;
+  margin-bottom: 16px;
+}
+
+.loginButton {
+  width: 100%;
+}

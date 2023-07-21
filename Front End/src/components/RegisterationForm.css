@@ -1,0 +1,21 @@
+.main {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  height: calc(100vh - 56px);
+}
+.form {
+  width: 40%;
+  padding: 24px;
+  border: 1px solid rgb(180, 180, 180);
+  border-radius: 8px;
+}
+.gender {
+  display: flex;
+}
+.lab {
+  display: flex;
+  margin-bottom: 8px;
+  margin-right: 16px;
+}
